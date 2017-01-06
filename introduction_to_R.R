@@ -225,6 +225,7 @@ x[x> 4 | x%% 3 == 0]
 # in R.
 
 add1 = function(x) x + 1
+add1(c(1,2,3,4,5,6,6))
 x
 add1(x)
 
@@ -241,6 +242,8 @@ rescale(x)
 # functions you define are also stored in the workspace.
 
 objects()
+
+add1 = function(x) x+1
 
 
 # Finally, to quit R, you can use the quit() command
