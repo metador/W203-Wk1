@@ -16,7 +16,7 @@
 # displayed correctly.
 
 # There are a few wrinkles to keep in mind when working
-# with factors.
+# with factors.s
 
 # Here is some data from Coye's latest chili cookoff.
 
